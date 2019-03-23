@@ -14,6 +14,8 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
+<!--Put the first five lines of a poem by Lewis Carroll here!-->
+
 “You are old, Father William,” the young man said,  
 “And your hair has become very white;  
 And yet you incessantly stand on your head –  
